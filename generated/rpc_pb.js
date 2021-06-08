@@ -1,4 +1,4 @@
-// source: src/grpc-server/proto3/rpc.proto
+// source: rpc.proto
 /**
  * @fileoverview
  * @enhanceable

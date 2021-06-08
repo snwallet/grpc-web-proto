@@ -1,5 +1,5 @@
 // package: rpc
-// file: src/grpc-server/proto3/rpc.proto
+// file: rpc.proto
 
 import * as jspb from "google-protobuf";
 
